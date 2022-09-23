@@ -11,7 +11,6 @@
 - JS
 
 ## Live Link
-https://letarulinda.github.io/Portfolio-project/
 
 ## Getting Started
 

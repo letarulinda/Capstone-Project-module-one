@@ -10,7 +10,6 @@ body {
   font-family: Lato, sans-serif;
 }
 
-
 a {
   color: black;
 }
@@ -338,7 +337,6 @@ nav {
   margin-top: 10px;
 }
 
-
 .footer-upper {
   display: flex;
   align-items: center;
@@ -432,7 +430,7 @@ nav {
   
   .upper-nav,
   .lower-nav {
-    display: none;
+   display: none;
   }
 
   .mobile-nav {
@@ -650,5 +648,4 @@ nav {
     background-color: #ec5242;
     margin: 20px;
   }
-
 }
