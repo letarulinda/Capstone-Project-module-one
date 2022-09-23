@@ -87,7 +87,6 @@ nav {
   line-height: 10px;
 }
 
-
 .headline-section {
   background: url("/app/static/images/main_big.png") no-repeat center center;
   background-size: cover;
@@ -427,10 +426,9 @@ nav {
 }
 
 @media screen and (max-width: 768px) {
-  
   .upper-nav,
   .lower-nav {
-   display: none;
+    display: none;
   }
 
   .mobile-nav {
