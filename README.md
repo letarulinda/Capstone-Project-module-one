@@ -11,6 +11,8 @@
 - JS
 
 ## Live Link
+https://letarulinda.github.io/Capstone-Project-module-one/
+ https://www.loom.com/share/bb12b47f67154f40ae58d805b4dfdbab
 
 ## Getting Started
 
@@ -43,6 +45,8 @@ Open your terminal and change your directory to the above-created directory Type
 
 Contributions, issues, and feature requests are welcome!
 
+## 🤝 Acknowledgement
+  I Acknowledge Cindy Shin the author of the original design.
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.

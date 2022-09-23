@@ -157,35 +157,7 @@ nav {
 }
 
 .program-section {
-  background-image:
-    linear-gradient(
-      283deg,
-      rgb(228 228 228 / 4%) 0%,
-      rgb(228 228 228 / 4%) 30%,
-      rgb(130 130 130 / 4%) 30%,
-      rgb(130 130 130 / 4%) 49%,
-      rgb(31 31 31 / 4%) 49%,
-      rgb(31 31 31 / 4%) 100%
-    ),
-    linear-gradient(
-      297deg,
-      rgb(228 228 228 / 4%) 0%,
-      rgb(228 228 228 / 4%) 20%,
-      rgb(130 130 130 / 4%) 20%,
-      rgb(130 130 130 / 4%) 60%,
-      rgb(31 31 31 / 4%) 60%,
-      rgb(31 31 31 / 4%) 100%
-    ),
-    linear-gradient(
-      242deg,
-      rgb(228 228 228 / 4%) 0%,
-      rgb(228 228 228 / 4%) 29%,
-      rgb(130 130 130 / 4%) 29%,
-      rgb(130 130 130 / 4%) 48%,
-      rgb(31 31 31 / 4%) 48%,
-      rgb(31 31 31 / 4%) 100%
-    ),
-    linear-gradient(90deg, rgb(0 0 0 / 91%), rgb(0 0 0 / 91%));
+  background: url("/app/static/images/repeat-bg.png");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -293,6 +265,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  font-size: 32px;
 }
 
 .speaker-text {
@@ -505,7 +478,7 @@ nav {
   }
 
   .headline-section {
-    background: url("/app/static/images/mobile_intro_bg.png") no-repeat center center;
+    background: url("/app/static/images/main_big.png") repeat center center;
     background-size: cover;
     height: 750px;
     width: 100%;
@@ -627,7 +600,7 @@ nav {
     position: absolute;
     top: 0;
     left: 0;
-    content: "Join Nairobi DevOPS Meetup 2022";
+    content: "Join GWC Hiring Summit 2022";
     text-decoration: none;
     box-sizing: border-box;
     padding: 28px 7px;
